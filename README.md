@@ -1,7 +1,9 @@
 
 ## HEllO FRIENDS 👋
 
-<img src="https://drive.google.com/file/d/1iQDpcIjwwXHXGbnrfgsI7_1Rdj-39deb/view?usp=sharing"> 
+<div align="left">
+<img height="240" width="240" alt="GIF" align="center" src="https://media1.tenor.com/m/Up_UxMLx8MkAAAAd/shinchan-mask.gif">
+</div>
 <br>
 
 [![Hits](https://hits.sh/github.com/akshay-dudhe.svg?style=for-the-badge&label=Profile-Visitors&logo=bugatti)](https://hits.sh/github.com/akshay-dudhe.svg)
