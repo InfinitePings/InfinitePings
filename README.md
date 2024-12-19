@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: akshaydudhe943@gmail.com
 -->
 
-## H 👋
+## HEllO FRIENDS 👋
 
 <div align="left">
-<img height="240" width="240" alt="GIF" align="center" src="https://c.tenor.com/OMDSFr1PLZcAAAAS/dogix-cheems.gif">
+<img height="240" width="240" alt="GIF" align="center" src="https://media1.tenor.com/m/Up_UxMLx8MkAAAAd/shinchan-mask.gif">
 </div>
 <br>
 
