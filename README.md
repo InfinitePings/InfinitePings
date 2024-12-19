@@ -1,14 +1,3 @@
-<!--
-## Hi there 👋
-**InfinitePings/InfinitePings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Web Minds IT Solution
-- 🌱 I’m currently learning WordPress
-- 👯 I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me: akshaydudhe943@gmail.com
--->
 
 ## HEllO FRIENDS 👋
 
@@ -26,7 +15,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 
 ## ☣ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 ```java
